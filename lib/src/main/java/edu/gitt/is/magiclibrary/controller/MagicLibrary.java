@@ -38,6 +38,8 @@ public class MagicLibrary {
 	public static void main(String[] args) {
 		log.info("Hola soy JPN7709 ejecutando la aplicación");
 		
+		log.info("Quiero causar un conflicto");
+		
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 
